@@ -1,0 +1,14 @@
+.centre{
+    text-align:center;
+    margin:auto;
+    margin-top:150px;
+    width:300px;
+    background-color: rgb(226, 227, 230);
+}
+
+h1{
+color:rgba(50, 154, 185, 0.884);
+width:200px;
+margin:auto;
+padding-bottom:5px;
+}
